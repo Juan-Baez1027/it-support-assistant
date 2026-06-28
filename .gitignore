@@ -1,0 +1,8 @@
+.it_support_config.json
+.it_support_history.json
+knowledge_base.json
+tickets.db
+__pycache__/
+*.pyc
+build/
+dist/
